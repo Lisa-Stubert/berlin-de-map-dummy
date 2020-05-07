@@ -11,3 +11,7 @@ h1.headline {
     width: auto;
     height: 500px; 
 }
+
+p {
+    line-height:120%
+}
