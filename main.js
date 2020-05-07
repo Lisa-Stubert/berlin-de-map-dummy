@@ -24,7 +24,7 @@ map.on('load', function() {
     },
     type: 'circle',
     paint: {
-      'circle-color': '#253276'
+      'circle-color': '#D82734'
 
     },
     'circle-radius': {
